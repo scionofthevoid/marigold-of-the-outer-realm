@@ -1,0 +1,41 @@
+@property --color-gold {
+	syntax: "<color>";
+	initial-value: rgb(255, 215, 0);
+	inherits: true;
+}
+
+@property --color-kikuchiba {
+	syntax: "<color>";
+	initial-value: rgb(226, 156, 69);
+	inherits: true;
+}
+
+@property --color-imperial {
+	syntax: "<color>";
+	initial-value: rgb(102, 51, 102);
+	inherits: true;
+}
+
+@property --color-regalia {
+	syntax: "<color>";
+	initial-value: rgb(89, 46, 131);
+	inherits: true;
+}
+
+@property --color-rose-vale {
+	syntax: "<color>";
+	initial-value: rgb(171, 78, 82);
+	inherits: true;
+}
+
+@property --color-verdigris {
+	syntax: "<color>";
+	initial-value: rgb(57, 162, 174);
+	inherits: true;
+}
+
+@property --color-zomp {
+	syntax: "<color>";
+	initial-value: rgb(51, 153, 153);
+	inherits: true;
+}
